@@ -1,0 +1,125 @@
+
+.heading-payment{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 600;
+    background-color: #000AFF;
+    color: white;
+    
+}
+
+.payment-options-price-details{
+    margin:10px 0px;
+    /* border: 1px solid black; */
+    display: flex;
+    box-sizing: border-box;
+    
+}
+
+.payment-options{
+    margin: 10px;
+    width: 60%;
+    height: 100%;
+    /* border: 1px solid black; */
+}
+.payment-options-heading{
+    text-align: center;
+    background-color:#C6A213;
+    padding: 5px 0px;
+    font-size: 30px;
+    font-weight: 600;
+    border: 1px solid black;
+}
+
+/* by phonepe option */
+.phonepay-option img{
+    align-items: center;
+    width: 60px;
+    height: 40px;
+}
+.phonepay-option {
+    margin: 20px 0px;
+    display: flex;
+    align-items: center;
+    /* align-content: center; */
+}
+.phonepay-option img, span{
+    margin-left: 30px;
+}
+.phonepay-option button{
+    /* display: flex; */
+    margin-left: 250px;
+    padding: 10px 30px;
+    background-color:#FE570F;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+/* by google pay  */
+.googlepay-option{
+    margin: 20px 0px;
+    display: flex;
+    align-items: center;
+}
+.googlepay-option img{
+    
+        align-items: center;
+        width: 60px;
+        height: 40px;
+    
+}
+.googlepay-option img, span{
+    margin-left: 30px;
+}
+.rbi-guidelines{
+    color: rgba(0, 0, 0, 0.363);
+    font-size: 13px;
+    margin:10px 0px 10px 30px;
+    
+}
+
+
+/* by credit-debit-atm  */
+.credit-debit-atm{
+    margin: 20px 0px;
+    display: flex;
+    align-items: center;
+}
+.credit-debit-atm img{
+    
+        align-items: center;
+        width: 60px;
+        height: 40px;
+    
+}
+.credit-debit-atm img {
+    margin-left: 30px;
+}
+
+
+/* by cash on delivery */
+.cash-on{
+    margin: 20px 0px;
+    display: flex;
+    align-items: center;
+}
+.cash-on img{
+    
+        align-items: center;
+        width: 60px;
+        height: 40px;
+    
+}
+.cash-on img {
+    margin-left: 30px;
+}
+
+
+/* price-category-details */
+.prices-details-category{
+    margin: 10px;
+    width: 40%;
+    height: 100%;
+    border: 1px solid black;
+}

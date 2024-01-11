@@ -1,0 +1,115 @@
+ @media only screen and (max-width: 430px) {
+     #Secound_box {
+         margin-left: 0px;
+         margin-right: 0px;
+         display: block;
+         box-shadow: none;
+     }
+
+     #Secound_sec_box {
+         display: none;
+     }
+
+     #input_box_div {
+         margin-left: 2px;
+     }
+
+     #logo_img img {
+         width: 100px;
+         height: 90px;
+         margin-top: -15px;
+         margin-left: -220px;
+     }
+
+     #logo_img h1 {
+         font-size: 15px;
+         margin-top: 45px;
+         margin-left: -15px;
+     }
+
+     #logo_img {
+         height: 70px;
+     }
+
+     #Wel_come {
+         font-size: 25px;
+         margin-left: -90px;
+         margin-top: 5px;
+     }
+
+     #Regi_with_Details {
+         margin-top: 10px;
+         width: 214px;
+         margin-left: 5px;
+     }
+
+     #Regi_with_Details h5 {
+         font-size: 8px;
+         margin-top: 14px;
+     }
+
+     #Name_input {
+         margin-top: 10px;
+         width: 214px;
+         margin-left: 5px;
+     }
+
+     #Name_input input {
+         margin-top: 2px;
+         height: 30px;
+         width: 214px;
+     }
+
+     #Name_input span {
+
+         width: 214px;
+         margin-left: 5px;
+         margin-top: -5px;
+         height: 20px;
+
+     }
+
+     #Last_Name {
+         margin-top: 5px;
+         width: 214px;
+         margin-left: 5px;
+     }
+
+     #Last_Name input {
+         margin-top: 2px;
+         width: 214px;
+         height: 30px;
+     }
+
+     #Last_Name span {
+         width: 214px;
+         margin-left: 5px;
+         margin-top: -5px;
+         height: 20px;
+     }
+
+     #keep_box div {
+         width: 12px;
+         height: 12px;
+         margin-left: -340px;
+     }
+
+     #Keep_line_box {
+         font-size: 8px;
+         margin-left: -330px;
+         margin-top: 2px;
+     }
+       
+     #Registration_btn {
+         width: 214px;
+         margin-left: 5px;
+         margin-top: 10px;
+         height: 50px;
+     }
+
+     #Registration_btn h1 {
+         font-size: 18px;
+     }
+
+
+ }

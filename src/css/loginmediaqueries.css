@@ -1,0 +1,145 @@
+ @media only screen and (max-width: 430px) {
+     #Secound_box {
+         margin-left: 0px;
+         margin-right: 0px;
+         display: block;
+         box-shadow: none;
+     }
+
+     #Secound_sec_box {
+         display: none;
+     }
+
+     #input_box_div {
+         margin-left: 2px;
+     }
+
+     #logo_img img {
+         width: 100px;
+         height: 90px;
+         margin-top: -15px;
+         margin-left: -220px;
+     }
+
+     #logo_img h1 {
+         font-size: 15px;
+         margin-top: 45px;
+         margin-left: -15px;
+     }
+
+     #logo_img {
+         height: 70px;
+     }
+
+     #Wel_come {
+         font-size: 25px;
+         margin-left: -210px;
+         margin-top: 5px;
+     }
+
+     #google_box {
+         width: 214px;
+         height: 25px;
+         margin-left: 5px;
+         margin-top: 10px;
+         /* overflow: hidden; */
+
+     }
+
+     #google_box div {
+         width: 18px;
+         height: 18px;
+         margin-left: -25px;
+         margin-top: 2px;
+     }
+
+     #google_box div img {
+         width: 18px;
+        margin-top: -7px;
+     }
+
+     #Log_h1 {
+         font-size: 14px;
+     }
+
+     #Line_with_email {
+         margin-top: 10px;
+         width: 214px;
+         margin-left: 5px;
+     }
+     #Line_with_email h5 {
+        font-size: 10px;
+        margin-top: 12px;
+    }
+     #Email_input {
+         margin-top: 10px;
+         width: 214px;
+         margin-left: 5px;
+     }
+
+     #Email_input input {
+         margin-top: 2px;
+         height: 30px;
+         width: 214px;
+     }
+
+     #Pwd_input {
+         margin-top: 5px;
+         width: 214px;
+         margin-left: 5px;
+     }
+
+     #Pwd_input input {
+         margin-top: 2px;
+         width: 214px;
+         height: 30px;
+     }
+
+     #keep_box {
+         width: 214px;
+         margin-left: 5px;
+         margin-top: -5px;
+         height: 20px;
+     }
+
+     #keep_box div {
+         width: 12px;
+         height: 12px;
+         margin-left: -40px;
+     }
+
+     #Keep_line_box {
+         font-size: 8px;
+         margin-left: -40px;
+         margin-top: 2px;
+     }
+
+     #Forgot_pwd {
+         font-size: 10px;
+         margin-right: -40px;
+     }
+
+     #Login_btn {
+         width: 214px;
+         margin-left: 5px;
+         margin-top: 10px;
+         height: 50px;
+     }
+
+     #Login_btn h1 {
+         font-size: 22px;
+     }
+
+     #Dont_acco {
+         width: 214px;
+         margin-left: 5px;
+         margin-top: 5px;
+     }
+     #Dont_acco h1 {
+        font-size: 15px;
+     }
+     #Dont_acco h2 {
+        font-size: 18px;
+     }
+
+ }
